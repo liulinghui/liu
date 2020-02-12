@@ -1,11 +1,14 @@
 ---
-title: 
+layout:     post
+title: 神，请引导我优雅度余生
 date: 2019-07-20 18:27:01
 categories: 灵
-
+header-img: "img/home-bg-o.jpg"
+tags: 
+-  敬
 ---
 
-# 神，请引导我优雅度余生。
+# 神，请引导我优雅度余生
 
 当这个想法出现的一瞬间，这颗不安的心平静了。
 
