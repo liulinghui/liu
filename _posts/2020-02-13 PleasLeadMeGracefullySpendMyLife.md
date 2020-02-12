@@ -3,7 +3,7 @@ layout:     post
 title: 神，请引导我优雅度余生
 date: 2019-07-20 18:27:01
 categories: 灵
-header-img: "img/home-bg-o.jpg"
+header-img: "img/home-bg.jpg"
 tags: 
 -  敬
 ---
